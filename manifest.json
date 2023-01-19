@@ -1,0 +1,18 @@
+{
+  "name": "Mi iglesia",
+  "short_name": "Mi iglesia",
+  "theme_color": "#ffe08a",
+  "background_color": "#ffe08a",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "./",
+  "start_url": "./",
+  "icons": [
+    
+    {
+      "src": "images/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
